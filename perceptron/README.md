@@ -63,7 +63,8 @@ Where:
 The perceptron uses a **step function**:
 
 [
-y={1 ​if z ≥ 
+y={1 ​if z≥0, 
+
    0 if z<0​}
 ]
 
